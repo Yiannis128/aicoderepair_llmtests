@@ -2,6 +2,7 @@
 log.txt
 results
 samples-patched
+progress.txt
 **/.ipynb_checkpoints
 **/.virtual_documents
 
