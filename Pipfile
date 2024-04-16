@@ -8,6 +8,10 @@ ipykernel = "*"
 openai = "*"
 python-dotenv = "*"
 tiktoken = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+jinja2 = "*"
 
 [dev-packages]
 
